@@ -65,9 +65,9 @@ The following metrics were used to evaluate model performance:
 2. Execute the cells in order.
 
 ### Results
-- Mean Absolute Error (MAE): <0.17841783631324432>
-- Mean Squared Error (MSE): <0.3730125534748223>
-- R-Squared (R2): <0.5987740410060091>
+- Mean Absolute Error (MAE): 0.17841783631324432
+- Mean Squared Error (MSE): 0.3730125534748223
+- R-Squared (R2): 0.5987740410060091
 ### Future Improvements
 - Experiment with advanced models like neural networks.
 - Implement deployment using Flask or FastAPI.
